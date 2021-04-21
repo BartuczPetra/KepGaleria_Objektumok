@@ -10,19 +10,19 @@ function $(nev){
 var index=0;
 
 var kep1 = {
-    eleresiut:"kkepek/4.jpg",
+    eleresiut:"kepek/Bobby.jpg",
     cim:"1. képcím",
     leiras:"1. leírás"
 };/*objektum, leírja egyetlen kép tulajdonságait*/
 
 var kep2 = {
-    eleresiut:"kkepek/5.jpg",
+    eleresiut:"kepek/Bobby3.jpg",
     cim:"2. képcím",
     leiras:"3. leírás"
 };
 
 var kep3 = {
-    eleresiut:"kkepek/7.jpg",
+    eleresiut:"kepek/Bobby1.jpg",
     cim:"3. képcím",
     leiras:"3. leírás"
 };
